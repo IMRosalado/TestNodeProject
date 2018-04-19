@@ -1,0 +1,11 @@
+{
+  "name": "test_npm_package",
+  "version": "0.0.1",
+  "bin": {
+    "run_test": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "simple-git": "^1.92.0"
+  }
+}
